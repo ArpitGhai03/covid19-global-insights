@@ -9,7 +9,7 @@ This project explores and visualizes the global impact of COVID-19 using a combi
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](covid_19_dashboard.png)
+![Dashboard Preview](covid_19_dashboard.PNG)
 
 ## 📁 Project Contents
 
